@@ -37,3 +37,10 @@ The project uses the following Python libraries:
 You can install them with:
 
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost statsmodels
+## Usage
+
+1. Fork or clone the repository  
+2. Open the notebooks in Jupyter Notebook or JupyterLab  
+3. Run the notebooks in sequence (**PartA → PartB → PartC**) or directly use **Final_Run.ipynb** for the simplified main workflow  
+4. All intermediate outputs, visualizations, and model results will be displayed in the respective files..
+
