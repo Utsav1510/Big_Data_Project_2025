@@ -17,6 +17,18 @@ It includes scripts for data collection, preprocessing, exploratory analysis, an
 Some steps may require adjusting file paths or names to ensure smooth execution.
 
 ---
+## Dataset
+
+This project uses publicly available meteorological and air quality data for Sydney (2015–2025), retrieved from:
+
+- [NSW Air Quality API](https://www.airquality.nsw.gov.au/air-quality-data-services/air-quality-api)  
+- [BOM Climate Data Online (CDO)](http://www.bom.gov.au/climate/data/)  
+
+The dataset includes pollutants (PM2.5, PM10, NO₂, CO, Ozone) and meteorological variables (temperature, humidity, wind speed/direction, wind variability).  
+
+Due to size constraints, the full dataset is **not uploaded** here. Instead:  
+- Dataset files for reference are provided in the zip file.
+- Scripts to fetch and preprocess the full dataset are available in the repository.  
 
 # Installation
 
