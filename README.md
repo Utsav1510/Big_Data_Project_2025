@@ -1,4 +1,4 @@
-# Air Quality and Meteorological Data Analysis
+# Big Data Analysis Project: Air Pollution & Climate Variability in Sydney
 
 This repository contains the complete workflow for analyzing the impact of climate variability on urban air pollution in Sydney.  
 It includes scripts for data collection, preprocessing, exploratory analysis, and predictive modeling using multiple machine learning methods.
