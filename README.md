@@ -27,7 +27,7 @@ This project uses publicly available meteorological and air quality data for Syd
 The dataset includes pollutants (PM2.5, PM10, NO₂, CO, Ozone) and meteorological variables (temperature, humidity, wind speed/direction, wind variability).  
 
 Due to size constraints, the full dataset is **not uploaded** here. Instead:  
-- Dataset files for reference are provided in the zip file.
+- Dataset files for reference are provided in the zip file: DatasetsRetrieved.zip.
 - Scripts to fetch and preprocess the full dataset are available in the repository.  
 
 # Installation
